@@ -1,4 +1,4 @@
-#backgroundGenerator
+# backgroundGenerator
 
 The Complete Web Developer in 2020: Zero to Mastery
 - another DOM exercise
